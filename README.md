@@ -1,3 +1,3 @@
-# Olá
-  
-Primeiro grande projeto realizado com 100% iniciativa própria usando a ferramenta do gitdesktop para auxílio. 
+# Nota
+
+  apenas uma copia generica de tela de login, codigo copiado e usado para enriquecer conhecimento pessoal.
